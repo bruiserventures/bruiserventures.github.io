@@ -6,7 +6,7 @@
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.png') no-repeat center center fixed;
+    background: #111656;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -79,7 +79,7 @@ hr {
 
 .box {
     margin-bottom: 20px;
-    padding: 30px 15px;
+    padding: 20px 15px;
     background: #fff;
     background: rgba(255,255,255,0.9);
 }
@@ -109,7 +109,7 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 50px 0;
+    padding: 20px 0;
 }
 
 @media screen and (min-width:768px) {
